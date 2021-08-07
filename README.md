@@ -2,6 +2,14 @@
 
 An *incredibly modular & complex package* to shuffle the contents of a given array randomly.
 
+## Install
+
+```bash
+npm i ts-shuffle
+# or
+yarn add ts-shuffle
+```
+
 ## Use
 
 ```ts
