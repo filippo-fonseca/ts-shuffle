@@ -1,12 +1,11 @@
 {
-  "name": "ts-npm-template",
+  "name": "ts-shuffle",
   "version": "1.0.0",
-  "repository": "https://github.com/alii/ts-npm-template",
-  "author": "Alistair Smith <alistairsmith01@gmail.com>",
+  "repository": "https://github.com/filippo-fonseca/ts-shuffle",
+  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "eslint . --fix&&jest",
-    "prepublishOnly": "npm run test&&npm run build",
+    "prepublishOnly": "npm run build",
     "build": "tsc"
   },
   "main": "dist/index.js",
