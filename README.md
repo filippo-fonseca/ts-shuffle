@@ -2,6 +2,8 @@
 
 An *incredibly modular & complex package* to shuffle the contents of a given array randomly.
 
+NOTE: This is a joke I made in the first day of my computer science class at my HS. Feel free to use it though, ig? xD
+
 ## Install
 
 ```bash
